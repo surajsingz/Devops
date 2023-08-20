@@ -1,1 +1,0 @@
-index.html is an HTML file that serves as the home page for a website. It's often the first file that visitors to a website will see. Usually, index.html is automatically opened when visitors enter the domain without specifying a specific file. An example of a index.html file might contain the following code: html.
